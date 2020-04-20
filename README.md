@@ -16,7 +16,7 @@ main.jsp, adminControllerm, adminRestController, tripInfoContoller, userControll
 
 ### main.jsp 이미지 랜덤출력
 
-(https://user-images.githubusercontent.com/57661474/79734897-68ea2400-8332-11ea-8f95-9767da857049.png)
+<img width="461" src="https://user-images.githubusercontent.com/57661474/79734897-68ea2400-8332-11ea-8f95-9767da857049.png>
 
 
 이미지 랜덤출력은 java에서 발생시킨 난수를 이용하여 각 이미지를 화면에 랜덤으로 출력하여 사용자에게 보여주는 서비스이다.
