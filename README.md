@@ -8,10 +8,16 @@ main.jsp, adminControllerm, adminRestController, tripInfoContoller, userControll
 
 ### main.jsp 환율정보조회main.jsp
 
+(https://user-images.githubusercontent.com/57661474/79734897-68ea2400-8332-11ea-8f95-9767da857049.png)
+
+
 환율정보조회는 foriegnApi를 이용하여 javaScript만으로 구현한 서비스이다.
 환율정보를 원하는 국가를 선택할시 국가에 해당하는 iso코드를 통해 환율을 구하고 그 퍼센테이지를 통해 금액을 산출한다.
 
 ### main.jsp 이미지 랜덤출력
+
+(https://user-images.githubusercontent.com/57661474/79734897-68ea2400-8332-11ea-8f95-9767da857049.png)
+
 
 이미지 랜덤출력은 java에서 발생시킨 난수를 이용하여 각 이미지를 화면에 랜덤으로 출력하여 사용자에게 보여주는 서비스이다.
 
