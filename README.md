@@ -8,7 +8,7 @@ main.jsp, adminControllerm, adminRestController, tripInfoContoller, userControll
 
 ### main.jsp 환율정보조회main.jsp
 
-<img width="461" alt="https://user-images.githubusercontent.com/57661474/79734897-68ea2400-8332-11ea-8f95-9767da857049.png">
+<img width="461" src="https://user-images.githubusercontent.com/57661474/79734897-68ea2400-8332-11ea-8f95-9767da857049.png">
 
 
 환율정보조회는 foriegnApi를 이용하여 javaScript만으로 구현한 서비스이다.
