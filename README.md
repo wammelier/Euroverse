@@ -21,7 +21,7 @@ main.jsp, adminControllerm, adminRestController, tripInfoContoller, userControll
 
 ### admin의 회원정보조회 (getUserList.jsp)
 
-<img width="461" src="">
+<img width="461" src="https://user-images.githubusercontent.com/57661474/79735819-d2b6fd80-8333-11ea-9694-d7411a8de7e7.png">
 
 사이트에 가입된 회원들의 정보를 보여주는 getUserList.jsp 는 가입한 유저들을 List형태로 보여준다.
 홈페이지에 가입된 유저들의 정보를 보여주며 검색은 ajax의 비동기방식을 이용하여 request없이 바로 정보를 출력한다.
@@ -29,14 +29,13 @@ main.jsp, adminControllerm, adminRestController, tripInfoContoller, userControll
 
 ### admin의 qna게시판 관리(getQnaList.jsp)
 
-<img width="461" src="https://user-images.githubusercontent.com/57661474/79735819-d2b6fd80-8333-11ea-9694-d7411a8de7e7.png">
+<img width="461" src="https://user-images.githubusercontent.com/57661474/79736149-5375f980-8334-11ea-8746-6fa818943bc2.png">
 
 사이트에 가입된 회원들이 작성한 qna질문 게시판에 게시글에 답변을 달수 있는 게시판이다. ajax의 비동기 처리방식을 이용하여 답변, 삭제를 구현하였다.
 
 ### admin의 신고게시판 관리(gerReportList.jsp)
 
-<img width="461" src="https://user-images.githubusercontent.com/57661474/79735847-e19db000-8333-11ea-942b-da286fa127e9.png
-">
+<img width="461" src="https://user-images.githubusercontent.com/57661474/79735847-e19db000-8333-11ea-942b-da286fa127e9.png">
 
 사이트를 이용하는 회원들이 불필요한 게시물을 신고하는 경우 관리자가 신고된 게시글의 내용 게시글 제목 댓글 내용 등을 확인할수 있고 이를 규제시 해당하는 댓글과 게시글은 게시판에서 플래그처리를통해 회원들에게 보여주지 않는다. (실제 디비에는 계속 남아있으며 삭제처리하지 않고 플래그로 처리하여 해당하는 게시물 댓글을 생략하고 출력하는 구조이다.)
 
