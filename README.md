@@ -16,13 +16,13 @@
 
 ### 2. [담당모듈](https://github.com/wammelier/Euroverse/blob/master/README.md#two-담당모듈)
 
-### 3. 의존성 및 버전 정보
+### 3. [의존성 및 버전 정보](https://github.com/wammelier/Euroverse/blob/master/README.md#three-의존성-및-버전정보)
 
-### 4. 분석 및 설계 과정
+### 4. [분석 및 설계 과정](https://github.com/wammelier/Euroverse/blob/master/README.md#four-분석-및-설계-과정)
 
-### 5. 추가학습
+### 5. [추가학습](https://github.com/wammelier/Euroverse/blob/master/README.md#five-추가학습)
 
-### 6 참고사항
+### 6 [참고사항](https://github.com/wammelier/Euroverse/blob/master/README.md#six-참고-사항)
 
 - - -
 <br/>
