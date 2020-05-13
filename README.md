@@ -2,8 +2,7 @@
 # :airplane: Euroverse (여행서비스 사이트)
 
 유렵여행을 계획중인 사람들을 위해 여행계획표작성 서비스 커뮤니티를 통한 정보습득 서비스 동행찾기 서비스 알람서비스, 채팅서비스, 여행일정계획서비스, 동행찾기서비스, 동행채팅서비스 와같은 a~z까지의 서비스를 제공하는 여행계획커뮤니티 홈페이지 입니다. 
-### 사이트 바로가기 
-### :point_right: <a href="http://13.209.169.241:8080">Euroverse</a> :point_left:
+### :point_right: <a href="http://13.209.169.241:8080">Euroverse</a> :point_left: 사이트 
 
 <img width="1792" alt="스크린샷 2020-05-13 오후 4 42 06" src="https://user-images.githubusercontent.com/57661474/81785232-005d2400-9539-11ea-8646-49cc5dff27e3.png">
 
