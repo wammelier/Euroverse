@@ -41,10 +41,10 @@
 
 #### 1. 환율정보 조회(main.jsp)
 
-<img width="461" src="https://user-images.githubusercontent.com/57661474/79734897-68ea2400-8332-11ea-8f95-9767da857049.png">
+<img width="861" alt="스크린샷 2020-05-13 오후 6 28 49" src="https://user-images.githubusercontent.com/57661474/81795985-c6474e80-9547-11ea-82aa-1358d0374a49.png">
 
-환율정보조회는 foriegnApi를 이용하여 javaScript만으로 구현한 서비스이다.
-환율정보를 원하는 국가를 선택할시 국가에 해당하는 iso코드를 통해 환율을 구하고 그 퍼센테이지를 통해 금액을 산출한다.
+환율정보조회는 foriegnApi를 이용하여 javaScript만으로 구현한 서비스입니다.
+환율정보를 원하는 국가를 선택할시 국가에 해당하는 iso코드를 통해 환율을 구하고 그 퍼센테이지를 통해 금액을 산출합니다.
 
 - - -
 
