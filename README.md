@@ -79,5 +79,11 @@ db에서 사진을 랜덤으로 출력합니다.
 + Database : Oracle 10g / MongoDB 3.6.1
 + VCS tool : GitHub
 + IDE : Eclipse
-+ Open Source : Sweetalert / FullCalendar / SummerNote / Owl carousel / AOS / Swiper / Foreign exchange rates API / 공공데이터포털API      / 청기와 LAB / I'mPort API / JavaMail API / 네이버로그인 API / 카카오로그인 API / GoogleMap API
++ Open Source : Sweetalert / FullCalendar / SummerNote / Owl carousel / AOS / Swiper / Foreign exchange rates API / 공공데이터포털API      / 청기와 LAB / I'mPort API / JavaMail API / GoogleMap API
+
+<img width="808" alt="스크린샷 2020-05-13 오후 5 42 52" src="https://user-images.githubusercontent.com/57661474/81812705-783f4480-9561-11ea-986a-8aeccf9ee07c.png">
+
+
+<img width="807" alt="스크린샷 2020-05-13 오후 5 42 39" src="https://user-images.githubusercontent.com/57661474/81812743-83927000-9561-11ea-8d04-3bf9a1c2eb81.png">
+
 - - -
