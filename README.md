@@ -14,7 +14,7 @@
 # :blue_book: 목차
 ### 1. [개요](https://github.com/wammelier/Euroverse/blob/master/README.md#one-개요)
 
-### 2. 담당모듈
+### 2. [담당모듈](https://github.com/wammelier/Euroverse/blob/master/README.md#two-담당모듈)
 
 ### 3. 의존성 및 버전 정보
 
