@@ -125,8 +125,21 @@ db에서 사진을 랜덤으로 출력합니다.
   
 ## :six: 참고 사항  
 
+**프로젝트 구현 홈페이지 링크**
+
+<a href="http://13.209.169.241:8080">Euroverse 클릭하세요!</a>
+
 **프로젝트 발표 영상(썸네일 클릭 시 이동)**
 
 [![](https://img.youtube.com/vi/xGH5Dzj8rAY/mqdefault.jpg)](https://youtu.be/xGH5Dzj8rAY)
+
+**프로젝트 포토폴리오 자료**
+
+[Euroverse Document - 최종안.pdf](https://github.com/wammelier/Euroverse/files/4621995/Euroverse.Document.-.pdf)
+
+
+
+
+
 
 - - -
