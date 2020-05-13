@@ -5,9 +5,10 @@
 <a href="http://13.209.169.241:8080"><img width="1792" alt="스크린샷 2020-05-13 오후 4 42 06" src="https://user-images.githubusercontent.com/57661474/81785232-005d2400-9539-11ea-8646-49cc5dff27e3.png"></a> [메인화면 사진입니다.]
 
 ### :point_up: 이미지를 누르시면 홈페이지로 이동합니다.
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
 
 - - -
 # :blue_book: 목차
