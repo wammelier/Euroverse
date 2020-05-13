@@ -49,7 +49,7 @@
 
 ### 2. 이미지 무한클릭 랜덤출력(main.jsp)
 
-<img width="623" alt="스크린샷 2020-05-13 오후 6 35 34" src="https://user-images.githubusercontent.com/57661474/81796565-93518a80-9548-11ea-964f-db841cade93f.png">
+<img width="617" alt="스크린샷 2020-05-13 오후 9 17 19" src="https://user-images.githubusercontent.com/57661474/81811197-37463080-955f-11ea-8e71-229727532d9f.png">
 
 사용자가 사진을 클릭하게될 경우 이미지를 랜덤으로 출력합니다. 여행지의 사진은 Selenium 크롤링을 이용하여 db에 사진을 넣었습니다. 난수를 발생시켜 id 값을 이용하여
 db에서 사진을 랜덤으로 출력합니다.
