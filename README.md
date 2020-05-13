@@ -39,13 +39,20 @@
        
 ## :two: 담당모듈
 
-#### 1. 환율정보 조회(main.jsp)
+### 1. 환율정보 조회(main.jsp)
 
 <img width="861" alt="스크린샷 2020-05-13 오후 6 28 49" src="https://user-images.githubusercontent.com/57661474/81795985-c6474e80-9547-11ea-82aa-1358d0374a49.png">
 
 환율정보조회는 foriegnApi를 이용하여 javaScript만으로 구현한 서비스입니다.
 환율정보를 원하는 국가를 선택할시 국가에 해당하는 iso코드를 통해 환율을 구하고 그 퍼센테이지를 통해 금액을 산출합니다.
+<br/>
 
+### 2. 이미지 무한클릭 랜덤출력(main.jsp)
+
+<img width="623" alt="스크린샷 2020-05-13 오후 6 35 34" src="https://user-images.githubusercontent.com/57661474/81796565-93518a80-9548-11ea-964f-db841cade93f.png">
+
+사용자가 사진을 클릭하게될 경우 이미지를 랜덤으로 출력합니다. 여행지의 사진은 Selenium 크롤링을 이용하여 db에 사진을 넣었습니다. 난수를 발생시켜 id 값을 이용하여
+db에서 사진을 랜덤으로 출력합니다.
 - - -
 
 
