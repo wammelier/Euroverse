@@ -72,5 +72,12 @@ db에서 사진을 랜덤으로 출력합니다.
 
 회원들이 신고한 게시물 댓글은 관리자의 의해 규제될수있는 게시판을 구현하였습니다. 회원들은 해당하는 게시물/댓글이 불필요하다고 여기질 경우 이를 신고할수 있고 신고된 게시물/댓글은 관리자에 의해 규제되며 규제된 게시물은 flag처리를 통해 게시판에 보여지지 않게됩니다.
 
-## :three: 담당모듈
+## :three: 의존성 및 버전정보
++ Laguage : Java
++ Back-end : Spring Framework 4.0.1 / MyBatis / Apache Tomcat / Selenium
++ Front : HTML5 / BootStrap 4 / CSS3 / jQuery / Ajax / JSP
++ Database : Oracle 10g / MongoDB 3.6.1
++ VCS tool : GitHub
++ IDE : Eclipse
++ Open Source : Sweetalert / FullCalendar / SummerNote / Owl carousel / AOS / Swiper / Foreign exchange rates API / 공공데이터포털API      / 청기와 LAB / I'mPort API / JavaMail API / 네이버로그인 API / 카카오로그인 API / GoogleMap API
 - - -
