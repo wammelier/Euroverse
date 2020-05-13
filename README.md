@@ -127,7 +127,7 @@ db에서 사진을 랜덤으로 출력합니다.
 
 **프로젝트 구현 홈페이지 링크**
 
-<a href="http://13.209.169.241:8080"><img width="200px" alt="스크린샷 2020-05-13 오후 4 42 06" src="https://user-images.githubusercontent.com/57661474/81785232-005d2400-9539-11ea-8646-49cc5dff27e3.png"></a> 클릭하세요!
+<a href="http://13.209.169.241:8080"><img width="200px" alt="스크린샷 2020-05-13 오후 4 42 06" src="https://user-images.githubusercontent.com/57661474/81785232-005d2400-9539-11ea-8646-49cc5dff27e3.png"></a> :point_left: 클릭하세요!
 
 **프로젝트 발표 영상(썸네일 클릭 시 이동)**
 
