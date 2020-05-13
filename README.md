@@ -36,15 +36,21 @@
 + 총 개발 인원 : 6명
 + 시스템 개요 : MVC Model2 아키텍쳐를 기반으로 한 SpringFrameWork를 이용하여 만든 유럽여행 플래너 및 커뮤니티 사이트입니다. 저희 사이트는 회원관리, 주문관리, 플래너, 커뮤니티, 채팅 및 알람 모듈로 구성되어 있습니다.
 
-- - -
+## :two: 담당모듈
 
-
-### main.jsp 환율정보조회main.jsp
+#### 1. 환율정보 조회(main.jsp)
 
 <img width="461" src="https://user-images.githubusercontent.com/57661474/79734897-68ea2400-8332-11ea-8f95-9767da857049.png">
 
 환율정보조회는 foriegnApi를 이용하여 javaScript만으로 구현한 서비스이다.
 환율정보를 원하는 국가를 선택할시 국가에 해당하는 iso코드를 통해 환율을 구하고 그 퍼센테이지를 통해 금액을 산출한다.
+
+- - -
+
+
+### main.jsp 환율정보조회main.jsp
+
+
 
 ### main.jsp 이미지 랜덤출력
 
