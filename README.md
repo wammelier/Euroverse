@@ -22,7 +22,7 @@
 
 ### 5. [추가학습](https://github.com/wammelier/Euroverse/blob/master/README.md#five-추가학습)
 
-### 6 [참고사항](https://github.com/wammelier/Euroverse/blob/master/README.md#six-참고-사항)
+### 6. [참고사항](https://github.com/wammelier/Euroverse/blob/master/README.md#six-참고-사항)
 
 - - -
 <br/>
