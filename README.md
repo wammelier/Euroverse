@@ -79,11 +79,42 @@ db에서 사진을 랜덤으로 출력합니다.
 + Database : Oracle 10g / MongoDB 3.6.1
 + VCS tool : GitHub
 + IDE : Eclipse
-+ Open Source : Sweetalert / FullCalendar / SummerNote / Owl carousel / AOS / Swiper / Foreign exchange rates API / 공공데이터포털API      / 청기와 LAB / I'mPort API / JavaMail API / GoogleMap API
 
 <img width="808" alt="스크린샷 2020-05-13 오후 5 42 52" src="https://user-images.githubusercontent.com/57661474/81812705-783f4480-9561-11ea-986a-8aeccf9ee07c.png">
 
+<img width="811" alt="스크린샷 2020-05-13 오후 9 35 57" src="https://user-images.githubusercontent.com/57661474/81812947-cce2bf80-9561-11ea-8b0e-4cab779d8a95.png">
 
-<img width="807" alt="스크린샷 2020-05-13 오후 5 42 39" src="https://user-images.githubusercontent.com/57661474/81812743-83927000-9561-11ea-8d04-3bf9a1c2eb81.png">
+## :four: 분석 및 설계 과정
+1. 주제 선정
+
+2.1. 업무 분석 : Use Case Modeling
+    2.1.1 현업 요구사항 정의서 작성  
+    2.1.2 요구사항 추적표 작성
+    2.1.3 Use Case 유형정의 작성    
+    2.1.4 Use Case Diagram 작성    
+    2.1.5 Use Case 정의서 작성
+
+2.2. 업무 분석 : Application Modeling
+    2.2.1 Class Diagram 작성    
+    2.2.2 VOPC(View Of Participating Class) Diagram 작성
+
+2.3. 화면 분석
+    2.3.1 화면 정의서 작성
+
+2.4. 데이터 분석(Logical)
+    2.4.1 ERD(Logical) 작성
+    
+3.1 업무 분석 : Application Modeling 
+    3.1.1 설계표준 정의
+    3.1.2 Class Diagram 작성
+    3.1.3 VOPC(View Of Participating Class) Diagram 작성
+
+3.2 화면 분석
+    3.2.1 화면 정의서 
+
+3.3 데이터 분석(Physical)
+    3.3.1 ERD(Physical) 작성
+    3.3.2 테이블 목록 작성
+    3.3.3 테이블 정의서 작성
 
 - - -
